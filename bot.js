@@ -1,3 +1,7 @@
+//@author Tomas Petricek
+//@edited by Caleb Scotson Pike
+//@last modified 2020.12.09
+
 function answerQuery(query) {
   query = query.toLowerCase();
   if (query.indexOf("rain") != -1 || query.indexOf("sun") != -1 || query.indexOf("weather") != -1)
