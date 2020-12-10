@@ -1,5 +1,5 @@
 //@author Tomas Petricek
-//@edited by Caleb Scotson Pike
+//@edited by Louis Carter & Caleb Scotson Pike
 //@last modified 2020.12.09
 
 function answerQuery(query) {
