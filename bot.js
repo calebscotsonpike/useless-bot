@@ -21,6 +21,7 @@ function handleSayClick() {
   var answer = answerQuery(message)
   conversation.innerHTML += "<p><strong>You:</strong> " + message2 + "</p>";
   conversation.innerHTML += "<p><strong>Useless bot:</strong> " + answer + "</p>";
+  document.getElementById("message").value = '';
 }
 
 document.getElementById("sayit").onclick = handleSayClick;
