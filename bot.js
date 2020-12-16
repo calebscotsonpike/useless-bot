@@ -1,6 +1,6 @@
 //@author Tomas Petricek
 //@edited by Louis Carter & Caleb Scotson Pike
-//@last modified 2020.12.09
+//@last modified 2020.12.16
 
 function answerQuery(query) {
   query = query.toLowerCase();
